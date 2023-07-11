@@ -1,0 +1,1 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(356,5): error : Element <PrecompiledHeader> has an invalid value of "_CRT_SECURE_NO_WARNINGS".

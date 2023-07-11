@@ -1,0 +1,39 @@
+﻿  main.cpp
+  MultiAxisControl.cpp
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(692): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(693): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(694): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(695): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(696): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(697): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(704): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(705): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(706): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(707): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(708): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(709): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(716): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(717): warning C4305: '-=': truncation from 'double' to 'float'
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(718): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(719): warning C4305: '-=': truncation from 'double' to 'float'
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(720): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(721): warning C4305: '-=': truncation from 'double' to 'float'
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(722): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(723): warning C4305: '-=': truncation from 'double' to 'float'
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(724): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(725): warning C4305: '-=': truncation from 'double' to 'float'
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(726): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(727): warning C4305: '-=': truncation from 'double' to 'float'
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(849): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(852): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(855): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(858): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(861): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(864): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(711): warning C4172: returning address of local variable or temporary: data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(765): warning C4172: returning address of local variable or temporary: data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(729): warning C4172: returning address of local variable or temporary: data
+e:\programc\multiaxiscontrol\multiaxiscontrol\multiaxiscontrol.cpp(699): warning C4172: returning address of local variable or temporary: data
+  MultiAxisControl.vcxproj -> E:\ProgramC\MultiAxisControl\Debug\MultiAxisControl.exe
+  MultiAxisControl.vcxproj -> E:\ProgramC\MultiAxisControl\Debug\MultiAxisControl.pdb (Partial PDB)
